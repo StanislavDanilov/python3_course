@@ -1,0 +1,5 @@
+name = input("You'r name: ")
+lastName = input("You'r last name: ")
+live = input("In the last life: ")
+sign = input("You'r zodiac sign: ")
+print(f"Индивидуальный гороскоп для пользователя {name} {lastName}\nКем вы были в прошлой жизни: {live}\nВаш знак зодиака - {sign} , поэтому вы - тонко чувствующая натура.")
