@@ -1,8 +1,5 @@
 # Welcome to Python3_course 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/github/license/https:\/\/github.com\/StanislavDanilov/Python3_course)](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE)
-
-> CLI that generates beautiful README.md files.
 
 ### 🏠 [Homepage](https://github.com/StanislavDanilov/python3_course)
 
