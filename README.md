@@ -19,7 +19,7 @@ python3 *.py
 
 👤 **Stanislav Danilov**
 
-* GitHub: [@https:\/\/github.com\/StanislavDanilov](https://github.com/https:\/\/github.com\/StanislavDanilov)
+* GitHub: [@https:\/\/github.com\/StanislavDanilov](https://github.com\/StanislavDanilov)
 
 ## 🤝 Contributing
 
